@@ -1,314 +1,314 @@
-huge	巨大な
-tiny	ごく小さな
-major	大きなほうの
-minor	小さいほうの
-dry	乾いた
-dirty	汚い
-loud	大きい
-touch	困難な
-knock	ノックする
-shut	を閉める
-lift	を持ち上げる
-press	を押す
-fold	を折りたたむ
-stretch	を伸ばす
-figure	"姿 , 図形"
-square	正方形
-circle	円
-level	水平(面)
-sheet	一枚
-row	列
-total	全体の
-amount	総計
-quantity	量
-mass	大きな塊
-pile	を積み重ねる
-lack	不足
-	
-	
-	
-	
-dull	鈍い
-lazy	怠惰な
-silly	馬鹿馬鹿しい
-foolish	愚かな
-rude	失礼な
-ugly	醜い
-pale	青白い
-horrible	恐ろしい、ぞっとするような
-awful	恐ろしい
-scold	しかる
-punish	を罰する
-criticize	を批評する
-complain	不満を言う
-refuse	断る
-avoid	避ける
-general	全体的な
-normal	標準の
-regular	規則的な
-particular	特定の
-rare	まれな
-local	その土地の
-global	世界的な
-leisure	ひま
-fashion	流行
-furniture	家具
-photo	写真
-screen	画面
-display	を陳列する
-	
-	
-sharp	鋭い
-tight	きつい
-obvious	明白な
-plain	明らかな
-brief	短時間の
-agriculture	農業
-soil	土
-crop	農作物
-grain	穀物
-greenhouse	温室
-occasion	時
-opportunity	機械
-circumstance	事情
-situation	状況
-instant	即座の
-primitive	時代の
-ancient	古代の
-final	最後の
-annual	年一回の
-lately	近頃
-recently	最近
-immediately	ただちに
-afterward	あとで
-smoke	煙
-gas	機体
-ash	灰
-dust	ちり
-	
-	
-	
-whether	かどうか
-unless	でない限り
-except	を除いて
-besides	のほかに
-beyond	の向こうに
-within	野以内に
-throughout	の間ずっと
-despite	にもかかわらず
-per	につき
-tool	道具
-equipment	設備
-instrument	器具
-switch	スイッチ
-cell phone	携帯電話
-industry	産業
-market	市場
-goods	商品
-service	奉仕
-cooperation	協力
-project	計画
-benefit	利益
-loss	失うこと
-earn	稼ぐ
-rent	貸し借りする
-economic	経済の
-clone	クローン
-entertainment	娯楽
-slave	奴隷
-	
-	
-advance	を進める
-progress	前進する
-approach	に近づく
-behave	ふるまう
-chase	追いかける
-recover	回復する
-overcome	に打ち勝つ
-bake	を焼く
-boil	わかす
-melt	溶かす
-serve	仕える
-feed	えさを与える
-flavor	味
-competition	競争
-battle	戦闘
-force	力
-army	軍隊
-soldier	兵士
-victory	勝利
-victim	犠牲者
-defeat	敗北
-tank	水槽
-beg	請う
-remind	思い出させる
-encourage	励ます
-relieve	安心させる
-fascinate	魅了する
-	
-	
-	
-flow	流れる
-float	浮かぶ
-pour	注ぐ
-splash	はねかける
-expect	予期する
-concern	心配させる
-hesitate	ためらう
-disappoint	失望させる
-regret	後悔する
-doubt	疑う
-admire	感心する
-pray	祈る
-rely	あてにする
-resist	抵抗する
-politics	政治
-democracy	民主主義
-freedom	自由
-election	選挙
-official	公の
-moral	道徳の
-investigation	調査
-data	資料
-aspect	面
-factor	要因
-analyze	分析する
-focus	焦点を合わせる
-concentrate	集中する
-effect	影響
-	
-	
-consist	から成る
-contain	含む
-remain	残っている
-require	必要とする
-adopt	採用する
-select	運ぶ
-limit	制限する
-unite	結合させる
-connect	つなぐ
-ingredient	要素
-represent	表す
-indicate	指し示す
-prove	証明する
-reveal	明らかにする
-education	教育
-experiment	実験
-laboratory	研究所
-principle	原理
-theory	理論
-statement	声明
-scholarship	奨学金
-truly	本当に
-fully	十分に
-slightly	わずかに
-simply	単に
-gradually	だんだんと
-entire	全体の
-extreme	極度の
-likely	ありそうな
-	
-direction	方向
-period	期間
-sort	種類
-variety	変化
-grade	等級
-rate	割合
-balance	つり合い
-image	像
-impression	印象
-appearance	現れること
-attitude	態度
-possibility	可能性
-absolutely	完全に
-adult	成人
-kid	子供
-ancestor	先祖
-crowd	群衆
-owner	所有者
-speaker	話す人
-captain	キャプテン
-author	著者
-director	指導者
-immigrant	移民
-talent	才能
-strict	厳しい
-severe	厳しい
-cruel	残酷な
-	
-	
-	
-position	位置
-spot	場所
-suburb	郊外
-region	地方
-apartment	アパート
-base	土台
-locate	場所を示す
-upstairs	階上へ
-downtown	繁華街へ
-frame	骨組み
-edge	ふち
-surface	表面
-section	区域
-elsewhere	どこかほかのところで
-everywhere	どこでも
-gun	銃
-weapon	武器
-crime	罪
-poison	毒
-alarm	驚き
-shock	衝撃的なこと
-thief	泥棒
-harm	害
-risk	危険
-steal	盗む
-rob	奪う
-crash	壊れる
-assure	保証する
-	
-	
-explode	爆発する
-pollute	汚染する
-ruin	破壊する
-arrest	逮捕する
-grab	つかむ
-traffic	交通
-transportation	輸送
-avenue	大通り
-path	小道
-license	許可
-signal	信号機
-fuel	燃料
-baggage	手荷物
-used	中古の
-patient	我慢強い
-shy	恥ずかしがりの
-blind	目の見えない
-funny	おかしい
-serious	まじめな
-ability	能力
-capacity	収容力
-quality	質
-technique	技術
-craft	工芸
-charm	魅力
-confidence	信頼
-	
-	
-	
-	
-advise	忠告する
-suggest	提案する
-recommend	推薦する
-reply	返事をする
-describe	描写する
-announce	発表する
-insist	主張する
-publish	出版する
-debate	討論
-association	協会
-committee	委員会
-independence	独立
-duty	義務
-structure	構造
+huge	巨大な	His house is huge.
+tiny	ごく小さな	The baby opened her tiny eyes.
+major	大きなほうの	Japan played a major role in the negotiations.
+minor	小さいほうの	Don’t worry about such a minor mistake.
+dry	乾いた	The paint is not completely dry.
+dirty	汚い	The lake is getting dirty.
+loud	大きい	Your voice is too loud.
+touch	困難な	We are facing a very tough situation.
+knock	ノックする	Someone nocked on the door.
+shut	を閉める	Can you shut the door?
+lift	を持ち上げる	This stone is too heavy to lift.
+press	を押す	I pressed my face against the window and looked inside.
+fold	を折りたたむ	Fold the paper along the line.
+stretch	を伸ばす	They stretched their legs in the gym.
+figure	"姿 , 図形"	I saw a figure in the distance.
+square	正方形	A handkerchief is usually in the shape if a square.
+circle	円	Draw a circle around the right answer.
+level	水平(面)	Dolphins have a very high level of intelligence.
+sheet	一枚	I'll put some clean sheets on the bed.
+row	列	She sat in the front row of the theater.
+total	全体の	The total cost of the project was 54000 dollars.
+amount	総計	He paid a large amount of money for the Italian sports car.
+quantity	量	We need a large quantity of sugar to make the cake.
+mass	大きな塊	There was a mass of garbage in the sea.
+pile	を積み重ねる	don’t pile your clothes on the floor!
+lack	不足	The plants died from a lack of rain.
+		
+		
+		
+		
+dull	鈍い	This knife is dull.
+lazy	怠惰な	His mother complains that he is lazy.
+silly	馬鹿馬鹿しい	Karl always tells silly jokes.
+foolish	愚かな	It’s foolish to ride a bike without a helmet.
+rude	失礼な	It was rude of you to say such a thing to him.
+ugly	醜い	This picture seems ugly to me.
+pale	青白い	She turned pale when she heard the news.
+horrible	恐ろしい、ぞっとするような	It was a horrible crime.
+awful	恐ろしい	The weather was awful.
+scold	しかる	She was scolded by her father.
+punish	を罰する	He knew he would be punished if he was caught.
+criticize	を批評する	They criticize her for working too slowly.
+complain	不満を言う	What are you complaining about?
+refuse	断る	He refused to answer any questions.
+avoid	避ける	You should avoid walking alone here at night.
+general	全体的な	This book will not be understood by general readers.
+normal	標準の	High temperatures are normal for this time of year.
+regular	規則的な	His breathing was slow and regular.
+particular	特定の	I didn’t have a particular reason to call her.
+rare	まれな	Snow is rare in this town.
+local	その土地の	The news was in the local newspaper.
+global	世界的な	My father works for a global company in Tokyo.
+leisure	ひま	I have no leisure time to watch TV.
+fashion	流行	Those clothes are not in fashion now.
+furniture	家具	There is a lot of furniture in this room.
+photo	写真	There was a photo of him in yesterdays paper.
+screen	画面	Her picture appeared on the screen.
+display	を陳列する	He displays signs of the flu.
+		
+		
+sharp	鋭い	This pencil isn't sharp.
+tight	きつい	These jeans are a little tight for me.
+obvious	明白な	That’s an obvious spelling mistake.
+plain	明らかな	His explanation was quite plain.
+brief	短時間の	The ceremony was brief.
+agriculture	農業	More than 75% of the land is used for agriculture.
+soil	土	Most herbs grow well in dry soil.
+crop	農作物	Most of the land is used for growing crops.
+grain	穀物	We need a lot of grain for these chickens.
+greenhouse	温室	Do you know what causes the greenhouse effect?
+occasion	時	Ill keep this wine for a special occasion.
+opportunity	機械	The party was a great opportunity for meeting new people.
+circumstance	事情	Do not give up under any circumstances.
+situation	状況	His comments only made the situation worse.
+instant	即座の	I often eat instant noodles.
+primitive	時代の	It’s a primitive from of kanji.
+ancient	古代の	I'm interested in ancient history.
+final	最後の	The final episode will be shown tonight.
+annual	年一回の	Are you going to the annual summer festival next week?
+lately	近頃	I've been really busy lately.
+recently	最近	Nick has come back from France recently.
+immediately	ただちに	"The phone rang, and he answered it immediately."
+afterward	あとで	"They had dinner, and then afterward they went to a movie."
+smoke	煙	I saw smoke coming from the building.
+gas	機体	You cant cook by gas in this apartment.
+ash	灰	Don’t drop cigarette ashes on the floor.
+dust	ちり	The furniture was covered with dust.
+		
+		
+		
+whether	かどうか	I don’t know whether she will come or not.
+unless	でない限り	Come to my office at one o'clock unless I phone.
+except	を除いて	We’re open every day except Monday.
+besides	のほかに	There were several boys besides Mike in the classroom.
+beyond	の向こうに	My house is beyond the woods.
+within	野以内に	The job will be finished within a week.
+throughout	の間ずっと	The disease spread throughout Europe.
+despite	にもかかわらず	"Despite all our efforts, the event was a failure."
+per	につき	He works 8 hours per day.
+tool	道具	We use a computer as a tool for communication.
+equipment	設備	We need to buy camping equipment.
+instrument	器具	The instruments of the plane were broken.
+switch	スイッチ	The switch is on the side of the lamp.
+cell phone	携帯電話	I left my cell phone at home.
+industry	産業	I want to get a job in the tourist industry.
+market	市場	There is a large market near the port.
+goods	商品	All the goods in this shop are handmade.
+service	奉仕	There is bus service from the hotel to the airport.
+cooperation	協力	Thank you for your cooperation.
+project	計画	His latest project is to build a new theater.
+benefit	利益	The Internet has brought us many benefits.
+loss	失うこと	The company had a loss of two million dollars.
+earn	稼ぐ	I need to earn a little more money.
+rent	貸し借りする	It’s very expensive to rent an apartment in New York.
+economic	経済の	The governments economic plan was wrong.
+clone	クローン	The scientists made a clone of a mouse.
+entertainment	娯楽	Theater is a popular form of entertainment.
+slave	奴隷	Slaves were a part of Roman society.
+		
+		
+advance	を進める	The army continued to advance.
+progress	前進する	Have the discussions progressed.
+approach	に近づく	I approached the house.
+behave	ふるまう	He behaved like a gentleman at the party.
+chase	追いかける	Then a dog started chasing me.
+recover	回復する	I soon recovered from the illness.
+overcome	に打ち勝つ	My grandmother overcame many difficulties in her life.
+bake	を焼く	Lets bake a cake.
+boil	わかす	Water boils at 100℃.
+melt	溶かす	The snow was starting to melt.
+serve	仕える	This restaurant serves great Mexican food.
+feed	えさを与える	Have you fed the dog?
+flavor	味	This coffee has a unique flavor.
+competition	競争	Competition for the job was intense.
+battle	戦闘	The battle lasted about 30minutes.
+force	力	Our boss forced us to work on Sunday.
+army	軍隊	We met in the army.
+soldier	兵士	He didn’t want to be a soldier.
+victory	勝利	Everybody celebrated our victory.
+victim	犠牲者	The victim died of head injuries.
+defeat	敗北	The party suffered a defeat in the election.
+tank	水槽	The fish in the tank were cute.
+beg	請う	I begged him to stay.
+remind	思い出させる	You remind me of my sister.
+encourage	励ます	The community is encouraging recycling.
+relieve	安心させる	They were relieved to know she was not hurt in the accident.
+fascinate	魅了する	Insects have always fascinated me.
+		
+		
+		
+flow	流れる	
+float	浮かぶ	
+pour	注ぐ	
+splash	はねかける	
+expect	予期する	
+concern	心配させる	
+hesitate	ためらう	
+disappoint	失望させる	
+regret	後悔する	
+doubt	疑う	
+admire	感心する	
+pray	祈る	
+rely	あてにする	
+resist	抵抗する	
+politics	政治	
+democracy	民主主義	
+freedom	自由	
+election	選挙	
+official	公の	
+moral	道徳の	
+investigation	調査	
+data	資料	
+aspect	面	
+factor	要因	
+analyze	分析する	
+focus	焦点を合わせる	
+concentrate	集中する	
+effect	影響	
+		
+		
+consist	から成る	
+contain	含む	
+remain	残っている	
+require	必要とする	
+adopt	採用する	
+select	運ぶ	
+limit	制限する	
+unite	結合させる	
+connect	つなぐ	
+ingredient	要素	
+represent	表す	
+indicate	指し示す	
+prove	証明する	
+reveal	明らかにする	
+education	教育	
+experiment	実験	
+laboratory	研究所	
+principle	原理	
+theory	理論	
+statement	声明	
+scholarship	奨学金	
+truly	本当に	
+fully	十分に	
+slightly	わずかに	
+simply	単に	
+gradually	だんだんと	
+entire	全体の	
+extreme	極度の	
+likely	ありそうな	
+		
+direction	方向	
+period	期間	
+sort	種類	
+variety	変化	
+grade	等級	
+rate	割合	
+balance	つり合い	
+image	像	
+impression	印象	
+appearance	現れること	
+attitude	態度	
+possibility	可能性	
+absolutely	完全に	
+adult	成人	
+kid	子供	
+ancestor	先祖	
+crowd	群衆	
+owner	所有者	
+speaker	話す人	
+captain	キャプテン	
+author	著者	
+director	指導者	
+immigrant	移民	
+talent	才能	
+strict	厳しい	
+severe	厳しい	
+cruel	残酷な	
+		
+		
+		
+position	位置	
+spot	場所	
+suburb	郊外	
+region	地方	
+apartment	アパート	
+base	土台	
+locate	場所を示す	
+upstairs	階上へ	
+downtown	繁華街へ	
+frame	骨組み	
+edge	ふち	
+surface	表面	
+section	区域	
+elsewhere	どこかほかのところで	
+everywhere	どこでも	
+gun	銃	
+weapon	武器	
+crime	罪	
+poison	毒	
+alarm	驚き	
+shock	衝撃的なこと	
+thief	泥棒	
+harm	害	
+risk	危険	
+steal	盗む	
+rob	奪う	
+crash	壊れる	
+assure	保証する	
+		
+		
+explode	爆発する	
+pollute	汚染する	
+ruin	破壊する	
+arrest	逮捕する	
+grab	つかむ	
+traffic	交通	
+transportation	輸送	
+avenue	大通り	
+path	小道	
+license	許可	
+signal	信号機	
+fuel	燃料	
+baggage	手荷物	
+used	中古の	
+patient	我慢強い	
+shy	恥ずかしがりの	
+blind	目の見えない	
+funny	おかしい	
+serious	まじめな	
+ability	能力	
+capacity	収容力	
+quality	質	
+technique	技術	
+craft	工芸	
+charm	魅力	
+confidence	信頼	
+		
+		
+		
+		
+advise	忠告する	
+suggest	提案する	
+recommend	推薦する	
+reply	返事をする	
+describe	描写する	
+announce	発表する	
+insist	主張する	
+publish	出版する	
+debate	討論	
+association	協会	
+committee	委員会	
+independence	独立	
+duty	義務	
+structure	構造	
