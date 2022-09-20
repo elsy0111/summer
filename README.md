@@ -1,4 +1,4 @@
 # Please Use Completed
-completed --> CSV and Excel file
-Database_3000 --> PDF file
-other --> wait...
+completed     --> CSV and Excel file<br>
+Database_3000 --> PDF file<br>
+other         --> wait...<br>
