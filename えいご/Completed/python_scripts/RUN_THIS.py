@@ -37,7 +37,7 @@ def loop():
     raw = f[random.randint(0, len(f))]
     root.after(10,export_eng(raw))
     root.after(10,export_jp(raw))
-    root.after(800,loop)
+    root.after(1100,loop) #change speed
     root.mainloop()
 
 root.after(100,loop)
