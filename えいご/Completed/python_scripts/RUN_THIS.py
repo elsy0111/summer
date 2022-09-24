@@ -34,7 +34,7 @@ def export_jp(row):
     jp.place(relx = 0.5, y = 600, anchor = CENTER)
 
 def loop():
-    raw = f[random.randint(0, len(f))]
+    raw = f[random.randint(0, len(f)-1)]
     root.after(10,export_eng(raw))
     root.after(10,export_jp(raw))
     root.after(1100,loop) #change speed
