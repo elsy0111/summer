@@ -30,14 +30,14 @@ def export_eng(row):
 def export_jp(row):
     cls_jp = ttk.Label(text="------------------", font=('游明朝 Light', 250), foreground = "black",background = "black")
     cls_jp.place(relx = 0.5, y = 700, anchor = CENTER)
-    jp = ttk.Label(text=row[1], font=('游明朝 Light', 75 ), foreground = "white",background = "black")
+    jp = ttk.Label(text=row[1], font=('游明朝 Light', 60 ), foreground = "white",background = "black")
     jp.place(relx = 0.5, y = 600, anchor = CENTER)
 
 def loop():
     raw = f[random.randint(0, len(f))]
     root.after(10,export_eng(raw))
     root.after(10,export_jp(raw))
-    root.after(1500,loop)
+    root.after(800,loop)
     root.mainloop()
 
 root.after(100,loop)
